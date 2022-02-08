@@ -1,2 +1,8 @@
 # Program-Tugas-Akhir
-project yang diubah untuk Tugas Akhir dalam rangka mendapatkan gelas Sarjana Komputer
+project Tugas Akhir
+
+PANJI RAMADHAN
+A11.2018.10987
+UNIVERSITAS DIAN NUSWANTORO
+SEMARANG
+2022
